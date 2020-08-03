@@ -22,31 +22,24 @@
 
 感谢队友们的付出，期待与你们再度合作！
 
----
-
 ## 开发环境
 - Windows 10 1809
 - Visual Studio 2017 15.9.11
 - Windows SDK 10.0.17763.0
 - Cocos2d-x 3.17.1
 
----
 ## 开发语言
 - ISO C++ 14
 
----
 ## 环境&&工具
 - 安装相应版本或更高版本的 Visual Studio
 - 参考 https://docs.cocos.com/cocos2d-x/manual/zh/installation/ 进行 Cocos2d-x 环境搭建
 - 参考 https://docs.cocos.com/cocos2d-x/manual/zh/editors_and_tools/cocosCLTool.html 进行 cocos 命令行环境搭建
 
----
 ## 开始使用
 - 复制已安装的 Cocos2d-x 的安装路径下的 cocos2d 文件夹到项目根目录下
 - 选择 iconbattle 为启动项目
 - 运行
-
----
 
 ## 开源许可证
 Apache-2.0
