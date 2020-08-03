@@ -1,4 +1,10 @@
-# Icon Battle
+<h1 align="center">
+  <a href="https://github.com/Tang1705/IconBattle" title="InconBattle Documentation">
+    <img alt="IconBattle" src="http://static.zybuluo.com/TangWill/v02g06cdibns0krhjs2y42ra/icon.png" width="200px" height="200px" />
+  </a>
+  <br />
+  Icon Battle
+</h1>
 
 ## 说明
 
