@@ -3,7 +3,7 @@
     <img alt="IconBattle" src="http://static.zybuluo.com/TangWill/v02g06cdibns0krhjs2y42ra/icon.png" width="200px" height="200px" />
   </a>
   <br />
-  Icon Battle
+  IconBattle
 </h1>
 
 <p align="center">
